@@ -8,4 +8,6 @@
 # └── .gitignore
 
 **/node_modules
+
+# variable d'environnement pour connexion mongoDB sécurisée
 .env
