@@ -1,0 +1,10 @@
+# Pour ignorer tous les dossiers node_modules du projet front et back (arborescence projet)
+# ├── backend
+# │   ├── index.html
+# │   └── node_modules
+# ├── frontend
+# │   ├── index.html
+# │   └── node_modules
+# └── .gitignore
+
+**/node_modules
